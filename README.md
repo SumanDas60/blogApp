@@ -25,15 +25,15 @@ It allows you to create, read, and search blog posts with a clean UI.
 ## 📸 Screenshots
 ### Home Page
 Shows all blog posts with a search bar.  
-![Home Screenshot](https://via.placeholder.com/800x400.png?text=Blog+App+Home)
+![Home Screenshot](https://github.com/SumanDas60/blogApp/blob/1ad1efa1e9b130fd82c8fe2a86ef9fc7ad5caedc/Screenshot%202025-09-15%20221522.png)
 
 ### New Post
 Form to add a new blog post.  
-![New Post Screenshot](https://via.placeholder.com/800x400.png?text=Blog+App+New+Post)
+![New Post Screenshot](https://github.com/SumanDas60/blogApp/blob/1ad1efa1e9b130fd82c8fe2a86ef9fc7ad5caedc/Screenshot%202025-09-15%20221559.png)
 
 ### Blog Detail
 Read the full blog post with author info.  
-![Detail Screenshot](https://via.placeholder.com/800x400.png?text=Blog+App+Detail)
+![Detail Screenshot](https://github.com/SumanDas60/blogApp/blob/1ad1efa1e9b130fd82c8fe2a86ef9fc7ad5caedc/Screenshot%202025-09-15%20221636.png)
 
 ---
 
